@@ -198,7 +198,7 @@ document.addEventListener('DOMContentLoaded', () => {
             favoritesList.removeChild(listItem); // Remove the list item from the dropdown
         });
         const removeIcon = document.createElement('img');
-        removeIcon.src = 'ASSESTS/cross.png'; // Path to your remove icon image
+        removeIcon.src = 'https://raw.github.com/YashIIT0909/WEATHER_WEBSITE/blob/main/cross.png'; // Path to your remove icon image
         removeIcon.alt = 'Remove';
         removeIcon.classList.add('remove-icon');
         removeButton.appendChild(removeIcon);
