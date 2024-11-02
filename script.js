@@ -1,5 +1,5 @@
 // // Replace these values with your actual URL and key
-const geoApiUrl = "http://api.openweathermap.org/geo/1.0/direct";  // API to get latitude and longitude by city
+const geoApiUrl = "https://api.openweathermap.org/geo/1.0/direct";  // API to get latitude and longitude by city
 const weatherApiUrl = "https://api.openweathermap.org/data/2.5/weather";  // API to get weather by latitude and longitude
 const apiKey = "e1eedaf26f67ab38837e46700964e56f";
 
