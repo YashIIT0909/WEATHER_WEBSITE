@@ -15,10 +15,10 @@ A simple and interactive weather website that provides real-time weather updates
 - **OpenWeather API**: For real-time and forecast weather data
 
 ### HOMEPAGE
-![Homepage Screenshot](./images/Homepage.png)
+![Homepage Screenshot](public/images/Homepage.png)
 
 ### City Weather
-![City Weather Screenshot](./images/Weather_page.png)
+![City Weather Screenshot](public/images/Weather_page.png)
 
 ### 5-Day Forecast
-![5-Day Forecast Screenshot](./images/5-day_forecast.png)
+![5-Day Forecast Screenshot](public/images/5-day_forecast.png)
