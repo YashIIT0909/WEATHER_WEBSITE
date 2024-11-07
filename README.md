@@ -18,7 +18,7 @@ A simple and interactive weather website that provides real-time weather updates
 ![Homepage Screenshot](public/images/Homepage.png)
 
 ### City Weather
-![City Weather Screenshot](public/images/Weather_Page.png)
+![City Weather Screenshot](public/images/Weather_page.png)
 
 ### 5-Day Forecast
 ![5-Day Forecast Screenshot](public/images/5-day_forecast.png)
