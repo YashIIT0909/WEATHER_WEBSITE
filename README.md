@@ -22,3 +22,11 @@ A simple and interactive weather website that provides real-time weather updates
 
 ### 5-Day Forecast
 ![5-Day Forecast Screenshot](public/images/5-day_forecast.png)
+
+## How to Use
+
+1. **Click the link below** to access the website.
+2. **Enter a city name** to get the latest weather details.
+3. **View** current conditions, temperature, and more!
+
+[Access the Weather Website]([https://your-weather-website-link.com](https://weather-website-mhc7.onrender.com))
