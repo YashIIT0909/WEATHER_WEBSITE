@@ -228,7 +228,7 @@
 }
 
 body{
-    background-image: url(/images/854002-hd_1920_1080_24fps.gif);
+    background-image: url(public/images/854002-hd_1920_1080_24fps.gif);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
